@@ -1,0 +1,2 @@
+# graphics
+about graphics card
